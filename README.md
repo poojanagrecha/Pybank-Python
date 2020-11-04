@@ -1,6 +1,6 @@
 # Pybank Python
  # Purpose
-This python program takes a list of financial records included in budget_analysis.csv and determines some summary statistics. t=The file contains two columns: Date and Revenue. It returns a results file that includes the number of months included, the net revenue, the average change in revenue between months, the date and amount of the greatest increase in revenue, and the date and amount of the greatest decrease in revenue.
+This python program takes a list of financial records included in budget_analysis.csv and determines some summary statistics. The file contains two columns: Date and Revenue. It returns a results file that includes the number of months included, the net revenue, the average change in revenue between months, the date and amount of the greatest increase in revenue, and the date and amount of the greatest decrease in revenue.
 # Results
 Total Months:86
 
